@@ -4,12 +4,12 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { ScullyLibModule } from '@scullyio/ng-lib';
 import { AppRoutingModule } from './app-routing.module';
-import { HomeComponent } from './home/home/home.component';
+// import { HomeComponent } from './home/home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent,
+    // HomeComponent,
   ],
   imports: [
     BrowserModule,
